@@ -8,5 +8,5 @@ Source: [01 - Rust for Absolute Beginners](https://www.youtube.com/watch?v=VjfTE
 - [[01x02] How to install Rust onto my computer](01x02/README.md)
 - [[01x03] Hello, World! | How to Write, Compile and Run Code using Rust](01x03/README.md)
 - [[01x04] How to Run a Rust executable (.exe) file on a different computer](01x04/README.md)
-- [01x05] How to code Rust programs using VS Code IDE (coming soon!)
-- [01x06] Tools to help developing Rust programs on VS Code (coming soon!)
+- [[01x05] How to install VS Code onto my computer](01x05/README.md)
+- [[01x06] How to use Rust in VS Code](01x06/README.md)
