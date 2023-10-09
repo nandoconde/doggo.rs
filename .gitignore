@@ -12,3 +12,10 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# specific binaries
+*.exe
+Series 01/Tutorial 01x03/hello
+Series 01/Tutorial 01x06/hello
+Series 01/Tutorial 01x07/math
+Series 01/Tutorial 01x08/bool

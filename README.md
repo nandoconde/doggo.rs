@@ -6,5 +6,5 @@ Source: [doggo dot rs (YouTube)](https://www.youtube.com/@doggodotrs/playlists)
 
 ## Table of Contents
 
-- [01 - Rust for Absolute Beginners](01/README.md)
+- [01 - Rust for Absolute Beginners](<Series 01/README.md>)
 - 02 - Coming soon!
