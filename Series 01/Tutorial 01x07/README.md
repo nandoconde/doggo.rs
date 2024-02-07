@@ -4,9 +4,11 @@ Source: [doggo dot rs (YouTube)](https://www.youtube.com/watch?v=xOZ1h7gjeC4)
 
 ## Table of contents
 
-[1. Lesson environment](#lesson-environment)
-[2. Comments](#comments)
-[3. Integer math operations](#integer-math-operations)
+- [\[01x07\] How to perform basic math in Rust](#01x07-how-to-perform-basic-math-in-rust)
+  - [Table of contents](#table-of-contents)
+  - [Lesson environment](#lesson-environment)
+  - [Comments](#comments)
+  - [Integer math operations](#integer-math-operations)
 
 ## Lesson environment
 
@@ -34,6 +36,8 @@ Create a file for the soruce code `math.rs`. Any name is valid as long as it has
    2. Subtraction: `-`
    3. Multiplication: `*`
    4. Division: `/`
+      1. When performed between integers, it is integer division.
+      2. When performed between floats, it is floating point division.
    5. Modulo: `%`
 4. Using built-in functions:
    1. Exponentiation: `i32::pow(base, exponent)`

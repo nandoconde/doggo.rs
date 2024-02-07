@@ -4,9 +4,11 @@ Source: [doggo dot rs (YouTube)](https://www.youtube.com/watch?v=VjfTECJvxfo)
 
 ## Table of contents
 
-[1. Motivation](#motivation)
-[2. Programming languages](#programming-languages)
-[3. Why Rust?](#why-rust)
+- [\[01x01\] Why Should I Learn the Rust Programming Language?](#01x01-why-should-i-learn-the-rust-programming-language)
+  - [Table of contents](#table-of-contents)
+  - [Motivation](#motivation)
+  - [Programming languages](#programming-languages)
+  - [Why Rust?](#why-rust)
 
 ## Motivation
 

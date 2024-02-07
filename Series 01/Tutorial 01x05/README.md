@@ -4,7 +4,9 @@ Source: [doggo dot rs (YouTube)](https://www.youtube.com/watch?v=vnkjjl_vJFQ)
 
 ## Table of contents
 
-[1. Install VS Code](#install-vs-code)
+- [\[01x05\] How to install VS Code onto my computer](#01x05-how-to-install-vs-code-onto-my-computer)
+  - [Table of contents](#table-of-contents)
+  - [Install VS Code](#install-vs-code)
 
 ## Install VS Code
 

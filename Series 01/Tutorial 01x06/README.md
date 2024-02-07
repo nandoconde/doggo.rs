@@ -4,9 +4,11 @@ Source: [doggo dot rs (YouTube)](https://www.youtube.com/watch?v=jvnZr7bJUfU)
 
 ## Table of contents
 
-[1. Customize VS Code](#customize-vs-code)
-[2. Rust + VS Code](#rust--vs-code)
-[3. Check the Rust installation](#check-everything-is-running)
+- [\[01x06\] How to use Rust in VS Code](#01x06-how-to-use-rust-in-vs-code)
+  - [Table of contents](#table-of-contents)
+  - [Customize VS Code](#customize-vs-code)
+  - [Rust + VS Code](#rust--vs-code)
+    - [Check everything is running](#check-everything-is-running)
 
 ## Customize VS Code
 

@@ -4,9 +4,11 @@ Source: [doggo dot rs (YouTube)](https://www.youtube.com/watch?v=ztRX_q_cXUI)
 
 ## Table of contents
 
-[1. Create a Rust source code file](#create-a-rust-source-code-file)
-[2. Compile the code to a native binary](#compile-the-source-code-to-a-native-binary)
-[3. General workflow for Rust](#general-workflow-for-rust)
+- [\[01x03\] Hello, World! | How to Write, Compile and Run Code using Rust](#01x03-hello-world--how-to-write-compile-and-run-code-using-rust)
+  - [Table of contents](#table-of-contents)
+  - [Create a Rust source code file](#create-a-rust-source-code-file)
+  - [Compile the source code to a native binary](#compile-the-source-code-to-a-native-binary)
+  - [General workflow for Rust](#general-workflow-for-rust)
 
 ## Create a Rust source code file
 
@@ -35,9 +37,9 @@ The source file can be found at [`hello.rs`](hello.rs).
     `hello.exe`. This last file is the executable.
    2. *Linux:* there is just a new binary file in the folder, called `hello`.
 4. The executable file created by `rustc` is portable across computers with
-   the same architecture (among all Windows for `hello.exe`, or among all the
-   same Linux distros for `hello`). The other computers do not need to have
-   Rust installed on them.
+    the same architecture (among all Windows for `hello.exe`, or among all the
+    same Linux distros for `hello`). The other computers do not need to have
+    Rust installed on them.
 
 ## General workflow for Rust
 

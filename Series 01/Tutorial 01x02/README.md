@@ -4,8 +4,12 @@ Source: [doggo dot rs (YouTube)](https://www.youtube.com/watch?v=QSwEBgyX5ds)
 
 ## Table of contents
 
-[1. Installing `rustup`](#installing-rustup)
-[2. Check the Rust installation](#check-the-rust-installation)
+- [\[01x02\] How to install Rust onto my computer](#01x02-how-to-install-rust-onto-my-computer)
+  - [Table of contents](#table-of-contents)
+  - [Installing `rustup`](#installing-rustup)
+    - [Linux/macOS](#linuxmacos)
+    - [Windows](#windows)
+  - [Check the Rust installation](#check-the-rust-installation)
 
 ## Installing `rustup`
 
@@ -22,8 +26,7 @@ This requires an active Internet connection.
 1. Enter [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
 2. Download the `rustup` installer (most likely 64-bit)
 3. Execute the `rustup-int.exe` installer
-   1. If prompted to install Visual C++ through Visual Studio installer,
-   enter `1`.
+   1. If prompted to install Visual C++ through Visual Studio installer, enter `1`.
    2. Continue as default throughout this sub-installation.
 4. Continue with default Rust installation pressing `1`.
 
@@ -31,5 +34,4 @@ This requires an active Internet connection.
 
 1. Open a terminal
 2. Enter `rustc --version`
-3. Something like `rustc 1.72.0 (5680fa18f 2023-08-23)` should appear, but
-   numbers may vary.
+3. Something like `rustc 1.72.0 (5680fa18f 2023-08-23)` should appear, but numbers may vary.
